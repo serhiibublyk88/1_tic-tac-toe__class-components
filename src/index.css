@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.game {
+  @apply flex flex-col items-center p-4;
+}
